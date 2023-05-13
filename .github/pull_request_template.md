@@ -1,7 +1,5 @@
 ## Please select your template you want
 
-## Please select your template you want
-
 ### Risks
 Any known risks with the changes in the PR
 1 [Personal Events Template]()
